@@ -1,12 +1,12 @@
 Emergency Response App
 
 Project Overview
-The Emergency Response App is designed to connect people with emergency responders like police, medics, and security. It works through a mobile app and local response points to make sure help arrives faster when it’s needed most.
+The Emergency Response App is designed to connect people with emergency responders like police, medics, and security. It works through a mobile app and local response points to make sure help arrives faster when it’s needed most
 
 How It Works
 1. The App
    - Users create an account and can add family members or devices.
-   - In an emergency, pressing the “Help” button sends your location and details to:
+   - In an emergency, pressing the Help button sends your location and details to:
      - Nearby police or security patrols
      - Medical responders or ambulances
      - Family or trusted contacts
@@ -16,17 +16,17 @@ How It Works
    - These can be set up near schools, taxi ranks, or neighborhoods and work with local security or police.
 
 3. Partners
-   - Doctors, legal advisors, and other trusted service providers can register as verified responders.
-   - Users can contact them through the app, either for free or via a subscription.
+   - Doctors, legal advisors and other trusted service providers can register as verified responders.
+   - Users can contact them through the app, either for free or via a subscription
 
 Why We Need It
 Many communities in South Africa have slow or uncoordinated emergency services. This app helps:
-- People get help faster.
-- Families feel safer.
+- People get help faster
+- Families feel safer
 - Communities work together for better safety, combining digital tools with real people on the ground.
 
 How It Makes Money
-- Subscriptions: Monthly plans for families or businesses to access extra features.
-- Per-use Fees: Small payments for specific services like a legal call or ambulance.
-- Partnerships: Work with insurance, medical, or security companies.
-- Community Sponsorships: NGOs or local businesses can fund free access for some groups.
+- Subscriptions- Monthly plans for families or businesses to access extra features
+- Per-use Fees- Small payments for specific services like a legal call or ambulance
+- Partnerships -Work with insurance, medical, or security companies
+- Community Sponsorships- NGOs or local businesses can fund free access for some groups
